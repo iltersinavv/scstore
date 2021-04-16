@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to my website.
 
-You can use the [editor on GitHub](https://github.com/iltersinavv/iltersinav2b/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I'm a developer and translater has 4 years of expreince on Scratch, Kodu Lab and a newly started expreince in GitHub. To hire me, email iltersinav2b@outlook.com
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
